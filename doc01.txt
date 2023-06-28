@@ -1,0 +1,166 @@
+Índice
+
+Estrutura básica
+Header
+Main
+Section: Início
+Section: Sobre o Projeto
+Section: Cursos
+Section: Serviços
+Section: Contato
+Section: Footer
+
+
+Claro! Aqui está o mapa do site com base na estrutura do código fornecido:
+
+Home (Página inicial)
+Header (Cabeçalho)
+Logo
+Menu de navegação
+Main (Conteúdo principal)
+Seção "Início"
+Seção "Sobre o Projeto"
+Seção "Cursos"
+Seção "Serviços"
+Seção "Sites do Governo"
+Seção "Contato"
+O site possui as seguintes seções:
+
+Início: Apresenta informações sobre o projeto "Risco Zero" e sua missão de minimizar os riscos sociais para pessoas em situação de risco, com destaque para mulheres, crianças e pessoas em situação de rua.
+
+Sobre o Projeto: Fornece uma visão geral sobre o projeto "Risco Zero", destacando que é uma ONG composta por profissionais de diversas áreas, como advogados, psicólogos, médicos, enfermeiros, professores, entre outros. O objetivo é ajudar a população em geral que se encontra em situação de risco. Também oferece a oportunidade de solicitar auxílio ou fazer denúncias.
+
+Cursos: Apresenta os cursos profissionalizantes oferecidos pelo projeto, com o objetivo de promover a inclusão social dos cidadãos atendidos e minimizar o retorno dessas pessoas a situações prejudiciais. São mencionados alguns exemplos de cursos, como informática, corte de costura, cozinha industrial, mecânica, marcenaria, telemarketing, vendas e aulas de reforço.
+
+Serviços: Destaca os serviços oferecidos pelo projeto "Risco Zero". Não foram fornecidos detalhes específicos sobre os serviços, mas há um ícone que representa os serviços e um título indicando "O que Fazemos?".
+
+Sites do Governo: Não foram fornecidos detalhes específicos sobre essa seção, mas provavelmente ela apresenta links ou recursos relacionados a sites governamentais relevantes para o público-alvo do projeto.
+
+Contato: Oferece um meio de comunicação para entrar em contato com o projeto "Risco Zero".
+
+Esse é um resumo do mapa do site com base no código fornecido. Note que alguns elementos e seções podem ter sido omitidos ou não detalhados completamente, pois algumas informações não estão presentes no código fornecido.
+
+
+
+
+
+Regenerate response
+
+
+1. Apresentação global do projeto
+1.1 Apresentação da empresa:
+
+Apresentar a atividade da empresa: data de criação, serviços ou produtos oferecidos, número de funcionários, rotatividade, principais eixos de desenvolvimento, principais concorrentes, etc.
+Explique a função do seu projeto web dentro da estratégia da empresa.
+Se estiver preparando o redesenho de um site existente, especifique seu tráfego mensal, algumas estatísticas de desempenho (taxa de rejeição, taxa de conversão …), o número de páginas web existentes a serem recuperadas, as tecnologias usadas etc.
+1.2 Os objetivos do site:
+
+Você deve detalhar o(s) objetivo(s) do seu website. Indique se ele é:
+
+Um website de comércio eletrônico projetado para vender produtos on-line
+Um website para apresentar a atividade da sua empresa
+Uma galeria multimídia (vídeo, áudio, imagens) on-line
+Um website promocional, por exemplo, para anunciar um evento
+Um software online
+1.3 O público-alvo do website:
+
+Você tem como alvo empresas (B2B) ou indivíduos (B2C)?
+Quais são as características e os interesses do seu público-alvo?
+Você deve identificar os diferentes segmentos que compõem seu público (por exemplo, PMEs e/ou grandes empresas) e classificar sua importância estratégica.
+1.4 Objetivos quantitativos:
+
+Esse tipo de informação deve oferecer uma idéia do nível de atividade que você espera em seu futuro site, pois isso pode ter um impacto na escolha da infraestrutura técnica.
+
+Quais as expectativas de tráfego para o seu website?
+No caso de um site de comércio eletrônico, quais são seus objetivos em termos de volume de vendas?
+Qual volume mensal de clientes em potencial você espera coletar com seus formulários?
+1.5 Escopo do projeto:
+
+Seu site deve ser multilíngue?
+Em quais idiomas ele deve ser publicado?
+Para cada idioma, além de traduzir o conteúdo, é necessário fazer outras adaptações?
+Deseja que o website seja adaptado a dispositivos móveis?
+1.6 Descrição dos elementos existentes:
+
+Já existe uma versão antiga do website online?
+Você possui o nome de domínio que deseja usar? E quanto à hospedagem?/
+Os documentos de apresentação da empresa ou de seus produtos estão disponíveis?
+Quais recursos estão disponíveis (logotipos, elementos gráficos, textos …)?
+Existem recursos humanos – internos ou externos – já atribuídos ao projeto? (gerente de projeto, web designer, webmaster …)?
+2. Descrição gráfica e ergonômica
+2.1 Identidade visual:
+
+Se você possui elementos gráficos que deseja reutilizar como base da sua nova identidade visual, não hesite em incluí-los nas especificações do website.
+
+Qual será a cor corporativa do seu website? Haverá cores mais dominantes?
+Haverá variações do código de cores de acordo com as seções ou páginas do seu website?
+Haverá variações do seu logotipo, dependendo da cor das suas páginas web?
+Você tem elementos visuais para reutilizar?
+Quais linhas visuais básicas você gostaria de integrar? Não deixe de oferecer exemplos concretos de websites que o inspiram!
+2.2 Projeto:
+
+Você tem requisitos específicos em relação ao design do seu futuro website: design plano, efeito de paralaxe, etc.?
+
+2.3 Esquemas:
+
+Você desenvolveu esquemas gráficos para descrever a organização das principais páginas do seu website? Não é um elemento obrigatório, especialmente se você deseja liberar seu provedor, mas se você tiver uma idéia precisa do que está procurando, poderá valorizar o uso de um programa de criação de maquete para criar seus esquemas.
+
+3. Descrição funcional e técnica
+Se você possui especificações funcionais detalhadas ou qualquer outro documento útil, não se esqueça de adicioná-las como um anexo às especificações do website.
+
+3.1 Mapa do site:
+
+Fazer um esboço com o mapa do seu website geralmente é uma boa ideia!
+
+Quais são as principais seções?
+Como são organizadas as diferentes categorias?
+Quais são as páginas principais?
+3.2 Descrição funcional:
+
+O seu website inclui uma loja online? Nesse caso, tente especificar os métodos de entrega e pagamento esperados, a presença de recursos de venda cruzada …
+Deve haver um espaço de cliente protegido por senha?
+Deseja ter um back office (área privada) para acompanhar a atividade? Especifique quais direitos de administrador você precisa, ilustre seus processos de negócios com esquemas.
+Seu website deve ter um mecanismo de pesquisa interno? Um blog? Um módulo para assinar a newsletter
+…
+3.3 Informações sobre o conteúdo:
+
+Quais tipos de conteúdo você pretende apresentar em seu website: artigos, imagens, vídeos, recursos para download etc.?
+Especifique suas necessidades em relação à modificação de conteúdo e criação de página.
+Indique se você deseja que o código HTML respeite os padrões de SEO, principalmente nas tags de título e meta-informação.
+3.4 Restrições técnicas:
+
+Existe alguma tecnologia imposta ou prioritária: linguagens, estruturas, CMS …?
+Com quais navegadores seu site deve ser compatível?
+Deseja que o provedor cuide da hospedagem?
+Quais sistemas externos você planeja integrar: redes sociais, contabilidade, cobrança, email, automação de marketing, CRM, analytics …?
+4. Benefícios contemplados e modalidades de seleção de fornecedores
+4.1 Benefícios contemplados:
+
+Especifique aqui a lista completa dos benefícios que deseja terceirizar para seu futuro provedor e para os quais deseja que seus candidatos proponham um orçamento:
+
+Desenvolvimento
+Design
+Integração
+Migração de banco de dados ou outros recursos existentes
+Compra de nome de domínio e gerenciamento de hospedagem
+Manutenção e atualizações
+Treinamento em gerenciamento de websites
+Serviços de marketing: plano de marketing, SEO, SEA, analytics, etc.
+…
+4.2 Calendário:
+
+Qual é o prazo para enviar solicitações de fornecedores?
+Quais são as datas esperadas para possíveis apresentações orais?
+Em que data o provedor será selecionado?
+Quais são os principais prazos intermediários para o projeto de acordo com os diferentes pacotes de entrega planejados?
+Em que data você gostaria de receber o projeto final?
+4.3 Metodologia de acompanhamento:
+
+Deseja que o fornecedor use uma metodologia Agile para o desenvolvimento do projeto?
+Como você deseja organizar o monitoramento do projeto: conversas telefônicas semanais, reuniões periódicas para apresentar o progresso …?
+Deseja ter acesso ao ambiente de trabalho durante a produção?
+Faça o download das especificações do seu website
+
+Para baixar a versão completa das especificações Webolto, introduza seu e-mail, por favor. Você receberá automaticamente um link para download.
+
+Obrigado por entrar em contato conosco! Entraremos em contato com você em breve.
